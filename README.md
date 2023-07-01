@@ -1,2 +1,2 @@
-# Roller-Coaster-Analysis
-Data Analysis of Roller Coaster dataset
+# Roller Coaster Analysis
+In this notebook, we will clean up the data so that it can be properly analyzed and used in machine learning, selecting relevant information that can provide valuable insights from the data.our goal is to perform a comprehensive analysis of our dataset to extract valuable information and gain insights from the data. Through this analysis, we hope to identify trends, patterns, and relationships in the data that can help us understand a little more from roller coasters.
